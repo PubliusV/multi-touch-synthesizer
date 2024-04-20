@@ -1,0 +1,8 @@
+pandas
+uuid
+datetime
+pickle
+numpy
+scipy
+ChannelAttribution
+plotly
